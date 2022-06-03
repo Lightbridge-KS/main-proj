@@ -1,0 +1,3 @@
+[submodule "sub/submod-proj"]
+	path = sub/submod-proj
+	url = https://github.com/Lightbridge-KS/submod-proj.git
